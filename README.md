@@ -2,7 +2,7 @@
 
 Detect and analyze suspicious web traffic using Machine Learning models on AWS CloudWatch data.
 
-![Project Preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcyberpedia.reasonlabs.com%2FEN%2Fsuspicious%2520website%2520detection.html&psig=AOvVaw1DkITXR_mp0FXJPJ-Qdnj2&ust=1744800645226000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND-4oTv2YwDFQAAAAAdAAAAABAE)
+![Project Preview]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fcyberpedia.reasonlabs.com%2FEN%2Fsuspicious%2520website%2520detection.html&psig=AOvVaw1DkITXR_mp0FXJPJ-Qdnj2&ust=1744800645226000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND-4oTv2YwDFQAAAAAdAAAAABAE](https://github.com/sumit3162/Cybersecurity-Suspicious-Web-Threat-Detection/blob/main/visuals.png?raw=true))
 
 ---
 
